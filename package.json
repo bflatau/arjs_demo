@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bflatau/arjs_demo/issues"
   },
-  "homepage": "https://github.com/bflatau/arjs_demo#readme"
+  "homepage": "https://github.com/bflatau/arjs_demo#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
